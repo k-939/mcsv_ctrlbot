@@ -1,1 +1,1 @@
-# mcsv_ctrlbot
+# Discord Bot for Minecraft Server Control
