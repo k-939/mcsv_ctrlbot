@@ -1,1 +1,1 @@
-# Discord Bot for Minecraft Server Control
+Discord Bot for Minecraft Server Control
